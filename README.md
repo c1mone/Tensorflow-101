@@ -5,5 +5,5 @@
 Ch1
 
 1. [Softmax Regressions with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/Ch1.1_MNIST_Softmax_Regression.ipynb)
-2. ​
+2. [Convolutional Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/Ch1.2_MNIST_Convolutional_Network.ipynb)
 

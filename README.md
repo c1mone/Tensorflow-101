@@ -4,6 +4,11 @@
 
 
 
-1. [Softmax Regressions with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/Ch1.1_MNIST_Softmax_Regression.ipynb)
-2. [Convolutional Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/Ch1.2_MNIST_Convolutional_Network.ipynb)
-3. [Save and Restore Model](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/3_Save_Restore_Model.ipynb)
+1. [Softmax Regressions with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/1_MNIST_Softmax_Regression.ipynb)
+2. [Convolutional Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/2_MNIST_Convolutional_Network.ipynb)
+3. [CNN layer visualization](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/3_MNIST_CNN_Layer_Visualization.ipynb)
+4. [Save and Restore Model](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/4_Save_Restore_Model.ipynb)
+5. [Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/5_Autoencoder.ipynb)
+6. [Sparse Autoencoder]()
+7. [Denoising Autoencoder]()
+8. [Convolutional Autoencoder]()

@@ -10,5 +10,5 @@
 4. [Save and Restore Model](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/4_Save_Restore_Model.ipynb)
 5. [Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/5_Autoencoder.ipynb)
 6. [Sparse Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/6_Sparse_Autoencoder.ipynb)
-7. [Denoising Autoencoder]()
-8. [Convolutional Autoencoder]()
+7. [Convolutional Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/7_Convolutional_Autoencoder.ipynb)
+8. [Denoising Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/8_Denoising_Autoencoder.ipynb)

@@ -12,3 +12,6 @@
 6. [Sparse Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/6_Sparse_Autoencoder.ipynb)
 7. [Convolutional Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/7_Convolutional_Autoencoder.ipynb)
 8. [Denoising Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/8_Denoising_Autoencoder.ipynb)
+9. [Variational Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/9_Variational_Autoencoder.ipynb)
+10. [Reccurent Neural Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/10_MNIST_Reccurent_Neural_Network.ipynb)
+

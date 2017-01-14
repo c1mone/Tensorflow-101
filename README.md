@@ -14,4 +14,8 @@
 8. [Denoising Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/8_Denoising_Autoencoder.ipynb)
 9. [Variational Autoencoder](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/9_Variational_Autoencoder.ipynb)
 10. [Reccurent Neural Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/10_MNIST_Reccurent_Neural_Network.ipynb)
+11. Char RNN
+12. word2vec
+13. [Generative Adversarial Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/13_Generative_Adversarial_Network.ipynb)
+14. DCGAN with MNIST
 

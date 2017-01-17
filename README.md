@@ -17,5 +17,5 @@
 11. Char RNN
 12. word2vec
 13. [Generative Adversarial Network with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/13_Generative_Adversarial_Network.ipynb)
-14. DCGAN with MNIST
+14. [DCGAN with MNIST](https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/14_DCGAN_with_MNIST.ipynb)
 
